@@ -1,0 +1,34 @@
+1. ERROR lines:
+ERROR Database connection failed
+ERROR Payment service unavailable
+ERROR Database connection timeout
+ERROR Server connection refused
+
+2. ERROR count:
+4
+
+3. WARNING lines:
+WARNING Disk usage reached 80%
+WARNING Memory usage reached 90%
+WARNING CPU usage reached 85%
+
+4. Lines containing Database:
+ERROR Database connection failed
+ERROR Database connection timeout
+
+5. First 5 lines:
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+WARNING Disk usage reached 80%
+INFO Backup completed
+Last 3 lines:
+ERROR Server connection refused
+INFO User logout successful
+WARNING CPU usage reached 85%
+
+6. Case-insensitive search for error:
+ERROR Database connection failed
+ERROR Payment service unavailable
+ERROR Database connection timeout
+ERROR Server connection refused

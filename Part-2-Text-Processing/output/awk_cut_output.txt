@@ -1,0 +1,42 @@
+8. Names and departments:
+Rahul,DevOps
+Amit,Testing
+Priya,DevOps
+John,Support
+Neha,Testing
+Arun,DevOps
+Meena,Support
+Kiran,Testing
+
+9. Employees in DevOps:
+101,Rahul,DevOps,45000,Bangalore
+103,Priya,DevOps,55000,Pune
+106,Arun,DevOps,60000,Hyderabad
+
+10. Salary greater than 40000:
+Rahul 45000
+Priya 55000
+Arun 60000
+Kiran 42000
+
+11. Employees in Bangalore:
+Rahul Bangalore
+Neha Bangalore
+
+12. Employees per department:
+      3 DevOps
+      2 Support
+      3 Testing
+
+13. Highest salary:
+106,Arun,DevOps,60000,Hyderabad
+
+14. Sorted by salary:
+104,John,Support,30000,Chennai
+107,Meena,Support,32000,Pune
+102,Amit,Testing,35000,Hyderabad
+105,Neha,Testing,40000,Bangalore
+108,Kiran,Testing,42000,Chennai
+101,Rahul,DevOps,45000,Bangalore
+103,Priya,DevOps,55000,Pune
+106,Arun,DevOps,60000,Hyderabad

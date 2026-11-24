@@ -1,0 +1,2 @@
+Error count: 5
+ALERT: more than 3 errors in application.log

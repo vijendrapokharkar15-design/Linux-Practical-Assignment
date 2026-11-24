@@ -1,0 +1,26 @@
+.:
+total 16
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 24 00:26 backup
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 24 00:13 config
+-rw-rw-r-- 1 ubuntu ubuntu    0 Nov 24 00:34 directory_listing.txt
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 24 00:26 logs
+drwxrwxr-x 2 ubuntu ubuntu 4096 Nov 24 00:13 scripts
+
+backup:
+total 0
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:22 application.log
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:18 sample5.log
+
+config:
+total 0
+
+logs:
+total 0
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:20 app-2026.log
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:18 sample1.log
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:18 sample2.log
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:18 sample3.log
+-rw-rw-r-- 1 ubuntu ubuntu 0 Nov 24 00:18 sample4.log
+
+scripts:
+total 0

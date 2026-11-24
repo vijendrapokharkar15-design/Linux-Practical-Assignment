@@ -1,0 +1,38 @@
+# Part 1 - Basic Linux: directory structure for a new application
+
+# 1. Create /opt/company and take ownership
+sudo mkdir -p /opt/company
+sudo chown $USER:$USER /opt/company
+ls -ld /opt/company
+cd /opt/company
+pwd
+
+# 2. Create subdirectories
+mkdir logs backup scripts config
+ls -l
+
+# 3. Create five sample log files
+touch logs/sample{1..5}.log
+ls -l logs
+
+# 4. Create application.log, copy to backup, rename original
+touch logs/application.log
+cp logs/application.log backup/
+mv logs/application.log logs/app-2026.log
+ls -l logs backup
+
+# 5. Move one file from logs to backup
+mv logs/sample5.log backup/
+ls -l logs backup
+
+# 6. Find all .log files
+find /opt/company -name "*.log"
+
+# 7. Permissions, ownership and current directory
+pwd
+ls -l
+ls -l logs backup scripts config
+
+# 8. Save a directory listing
+ls -l . logs backup scripts config > directory_listing.txt
+cat directory_listing.txt

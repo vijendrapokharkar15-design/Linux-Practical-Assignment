@@ -1,0 +1,12 @@
+10:00:01 INFO Application started
+10:01:10 INFO Database connected
+10:02:15 INFO User login successful
+10:03:20 ERROR Invalid database credentials
+10:04:30 ERROR Database connection refused
+10:05:40 WARNING Connection retry initiated
+10:06:50 ERROR Database connection timeout
+10:07:10 INFO Application retry started
+10:08:20 ERROR Connection pool exhausted
+10:09:30 WARNING Application response slow
+10:10:40 ERROR Database connection refused
+10:11:50 INFO Application shutdown

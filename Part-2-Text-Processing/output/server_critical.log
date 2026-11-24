@@ -1,0 +1,12 @@
+INFO Application started
+INFO User login successful
+CRITICAL Database connection failed
+WARNING Disk usage reached 80%
+INFO Backup completed
+CRITICAL Payment service unavailable
+CRITICAL Database connection timeout
+WARNING Memory usage reached 90%
+INFO Application restarted
+CRITICAL Server connection refused
+INFO User logout successful
+WARNING CPU usage reached 85%

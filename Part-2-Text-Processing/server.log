@@ -1,0 +1,12 @@
+INFO Application started
+INFO User login successful
+ERROR Database connection failed
+WARNING Disk usage reached 80%
+INFO Backup completed
+ERROR Payment service unavailable
+ERROR Database connection timeout
+WARNING Memory usage reached 90%
+INFO Application restarted
+ERROR Server connection refused
+INFO User logout successful
+WARNING CPU usage reached 85%

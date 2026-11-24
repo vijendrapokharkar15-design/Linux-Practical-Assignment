@@ -1,0 +1,13 @@
+Server Health Report - Tue Nov 24 15:05:25 UTC 2026
+Hostname: ip-172-31-22-25
+Disk usage: 34%
+Available memory: 608Mi
+Uptime: up 2 minutes
+Top 5 CPU processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.6  1.6  24756 15516 ?        Ss   15:02   0:01 /sbin/init
+root         196  0.2  1.4  39380 13768 ?        Ss   15:02   0:00 /usr/lib/systemd/systemd-udevd
+root          34  0.1  0.0      0     0 ?        S<   15:02   0:00 [pr/ttyS0]
+root         606  0.1  4.5 1955332 41908 ?       Ssl  15:02   0:00 /usr/lib/snapd/snapd
+root         130  0.1  1.7  42192 15832 ?        S<s  15:02   0:00 /usr/lib/systemd/systemd-journald
+cron is running
